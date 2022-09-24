@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WarChallenge
 //
-//  Created by Barto on 17/09/2022.
+//  Created by Eric on 17/09/2022.
 //
 
 import SwiftUI
